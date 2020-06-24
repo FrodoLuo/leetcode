@@ -1,0 +1,10 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "FrodoLuo <frodoluo@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc ; node ./dist/main.js"
+  }
+}
