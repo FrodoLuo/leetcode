@@ -58,4 +58,3 @@ function getBaseIndex(arr: number[], target: number): number {
   }
   return arr.length - 1;
 }
-console.log(threeSumClosest([-3, -2, -5, 3, -4], -1));

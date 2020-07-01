@@ -6,5 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "tsc ; node ./dist/main.js"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
   }
 }
