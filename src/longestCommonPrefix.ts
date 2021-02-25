@@ -37,5 +37,3 @@ const longestCommonPrefix = function(strs: string[]): string {
 
     return result.join('')
 }
-
-console.log(longestCommonPrefix(['12345','234']))
